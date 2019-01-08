@@ -1,0 +1,12 @@
+name: glm-app
+title: glm-app
+username:
+account: cayan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 631701
+bundleId: 1803282
+url: https://cayan.shinyapps.io/glm-app/
+when: 1546967650.08578
+asMultiple: FALSE
+asStatic: FALSE

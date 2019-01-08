@@ -21,7 +21,7 @@ dashboardPage(skin = ("blue"),
                   
                   sidebarUserPanel(name = a("Cayan Atreio Portela", target = "_blank_",
                                             href = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4301098J2"),
-                                   subtitle = "Mestrando",
+                                   subtitle = "Estatístico",
                                    image = "teste2.jpg"),
                   sidebarUserPanel(name = a("Cristian M. V. Lobos", target = "_blank_",
                                             href = "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4245185U2"),
